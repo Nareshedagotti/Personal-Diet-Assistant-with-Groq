@@ -47,7 +47,7 @@ pip install gradio python-dotenv groq
    Once the environment is set up, run the Python script to launch the app:
 
    ```bash
-   python diet_assistant_gradio.py
+   python app.py
    ```
 
    This will launch the Gradio app in your browser. You can follow the link in the terminal to interact with the assistant.
